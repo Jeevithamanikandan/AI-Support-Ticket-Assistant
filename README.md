@@ -14,7 +14,7 @@ The application allows users to ask natural language questions about customer su
 
 # Features
 
-### ✅ Natural Language Querying
+###  Natural Language Querying
 
 Users can ask questions such as:
 
@@ -29,7 +29,7 @@ The system converts the question into a Pandas query using Gemini and executes i
 
 ---
 
-### ✅ AI Powered Analytics
+###  AI Powered Analytics
 
 The application uses Google's Gemini LLM to:
 
@@ -39,7 +39,7 @@ The application uses Google's Gemini LLM to:
 
 ---
 
-### ✅ Anomaly Detection
+###  Anomaly Detection
 
 The system detects:
 
@@ -50,7 +50,7 @@ The system detects:
 
 ---
 
-### ✅ Dashboard
+###  Dashboard
 
 Dashboard displays:
 
@@ -64,7 +64,7 @@ Dashboard displays:
 
 ---
 
-### ✅ REST API
+###  REST API
 
 Available APIs
 
